@@ -7,7 +7,7 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
-//▮http://gayantha.ml/
+//▮http://gayanboy12@gmail.com
 //▮WHATSAPP US : +94 75 851 2807
 //▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
 //▮

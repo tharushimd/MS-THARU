@@ -1,6 +1,7 @@
 # <b><tt><i>🇱🇰 ◈ ◈ ◈ MS-THARU ◈ ◈ ◈ 🇱🇰</i></b></tt>
 <br>
 
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+🇱🇰 ◈ ◈ ◈ MS-THARU◈ ◈ ◈ 🇱🇰;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹) ]
 
 <a href="https://github.com/tharushimd">![MS-THARU](https://img.shields.io/badge/THARU%20Bot-OWNER-52b5f7?style=for-the-badge&logo=discord%20alexa&logowhite=white)
 <div align="center"> 

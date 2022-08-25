@@ -1,8 +1,6 @@
 # <b><tt><i>🇱🇰 ◈ ◈ ◈ MS-THARU ◈ ◈ ◈ 🇱🇰</i></b></tt>
 <br>
 
-[![Typing SVG](https://bit.ly/3aPnjLk)](https://git.io/typing-svg)
-<br>
 
 <a href="https://github.com/tharushimd">![MS-THARU](https://img.shields.io/badge/THARU%20Bot-OWNER-52b5f7?style=for-the-badge&logo=discord%20alexa&logowhite=white)
 <div align="center"> 
@@ -72,4 +70,4 @@
 
 
 ----
-<div align="center"><h1> MS-THARU BOT IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/tharushimd"><img src="https://i.ibb.co/N903kqX/ab6f24d2-ae33-498a-b0f5-d1e2eb7fb37a.gif" width="300"></a></div>  
+<div align="center"><h1> MS-THARU BOT IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/tharushimd"><img src="https://telegra.ph/file/3273e10d217bf1ec57ab8.mp4" width="300"></a></div>  

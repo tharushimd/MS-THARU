@@ -1,14 +1,14 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮SHEWON MD BOT 2022 ®️ALL RIGHTS RESERVED
+//▮MS-THARU BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
-//▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
+//▮http://gayantha.ml/
+//▮WHATSAPP US : +94 75 851 2807
 //▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING SHEWON-BOT
+//┃THANKS FOR CHOOSING MS-THARU-BOT
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //

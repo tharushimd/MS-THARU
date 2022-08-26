@@ -71,4 +71,4 @@
 
 
 ----
-<div align="center"><h1> MS-THARU BOT IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/tharushimd"><img src="https://i.ibb.co/k5GK2zP/Picsart-22-08-25-09-45-24-357.jpg" width="300"></a></div>  
+<div align="center"><h1> MS-THARU BOT IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/tharushimd"><img src="https://telegra.ph/file/f88b34c9a2f93797cb365.mp4" width="300"></a></div>  

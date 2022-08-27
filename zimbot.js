@@ -3717,8 +3717,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 let search = await yts(text)
                 let kingbotsearch = search.videos[0]
                 let buttons = [
-                    {buttonId: `hsong ${kingbotsearch.url}`, buttonText: {displayText: '🎧 AUDIO'}, type: 1},
-                    {buttonId: `msong  ${kingbotsearch.url}`, buttonText: {displayText: '🎵 DOCUMENT'}, type: 1},
+                    {buttonId: `hsong ${kingbotsearch.url}`, buttonText: {displayText: '🎧 HIGH QUELETY'}, type: 1},
+                    {buttonId: `msong  ${kingbotsearch.url}`, buttonText: {displayText: '🎵 MEDIUM QUELETY'}, type: 1},
                     {buttonId: `id3`, buttonText: {displayText: '🔮 ᴍᴏʀᴇ ᴅᴇᴀᴛᴀɪʟꜱ'+'\n\n\n▣ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ ➢ '+`${kingbotsearch.description}`+'\n▣ ᴀᴜᴛʜᴏʀ ➢ '+`${kingbotsearch.author.name}`+'\n▣ ᴄʜᴀɴɴᴇʟ ➢ '+`${kingbotsearch.author.url}`}, type: 1}
                 ]
                 let buttonMessage = {

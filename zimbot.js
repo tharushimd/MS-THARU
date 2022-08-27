@@ -426,7 +426,7 @@ randek = jsonDrips[randIndex];
             if (typeof setting !== 'object') global.db.data.settings[botNumber] = {}
 	    if (setting) {
 		if (!isNumber(setting.status)) setting.status = 0
-		if (!('autobio' in setting)) setting.autobio = false
+		if (!('autobio' in setting)) setting.autobio = true
 		if (!('templateImage' in setting)) setting.templateImage = false
 		if (!('templateLocation' in setting)) setting.templateLocation = false
 		if (!('templateGif' in setting)) setting.templateGif = true
@@ -650,7 +650,7 @@ const listmsg = (from, title, desc, list) => { // ngeread nya pake rowsId, jadi 
 	    
         //----------ANTILINK ALL--------BY-DRIPS------\\
         if (db.data.chats[m.chat].antiinstagram) {
-        if (budy.includes("https://www.instagram.com/")){
+        if (budy.includes("https://www.whatsapp.com/")){
      if (!isBotAdmins) return
      zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n\n*you are admn okay*`
      if (isAdmins) return m.reply(zimbotv3)
@@ -1537,12 +1537,12 @@ break
 case 'restart': {
              if (!isCreator) throw mess.owner              
              exec(`npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs`)
-             m.reply('*Restarting shewonbot....*')
+             m.reply('*Restarting ms-tharu....*')
              }
 break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
 	    if (isBan) throw mess.ban
-                ZimBotInc.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/LJQ41wW/20220715-232355.jpg' }, caption: `*Hi Chomie ${m.pushName}*\n\n *Thanks for your support we appreciate you we dont need your money, support us by subscribing to our youtube channel* *SHEWON OFC:* https://youtube.com/c/slcartooninstudio ` }, { quoted: m })
+                ZimBotInc.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/CKBLphk/Picsart-22-08-25-09-45-24-357.jpg' }, caption: `*Hi Chomie ${m.pushName}*\n\n *Thanks for your support we appreciate you we dont need your money, support us by subscribing to our youtube channel* *THARU OFC:* https://youtube.com/c/slcartooninstudio ` }, { quoted: m })
             }
             break            
             case 'chat': {
@@ -2943,7 +2943,7 @@ if (isBan) throw mess.ban
          break
 case 'attp4': {
 if (isBan) throw mess.ban
-           if (!text) throw `*Example : ${prefix + command} shewon hi*`
+           if (!text) throw `*Example : ${prefix + command} tharu hi*`
            if (!isInventoryLimit){ addInventoriLimit(m.sender) }
            if (isLimit < 1) return m.reply(mess.endLimit)
            kurangLimit(m.sender, 1)
@@ -3717,8 +3717,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 let search = await yts(text)
                 let kingbotsearch = search.videos[0]
                 let buttons = [
-                    {buttonId: `hsong ${kingbotsearch.url}`, buttonText: {displayText: '🎧 HIGH QUALITY'}, type: 1},
-                    {buttonId: `msong  ${kingbotsearch.url}`, buttonText: {displayText: '🎵 MEDIUM QUALITY'}, type: 1},
+                    {buttonId: `hsong ${kingbotsearch.url}`, buttonText: {displayText: '🎧 AUDIO'}, type: 1},
+                    {buttonId: `msong  ${kingbotsearch.url}`, buttonText: {displayText: '🎵 DOCUMENT'}, type: 1},
                     {buttonId: `id3`, buttonText: {displayText: '🔮 ᴍᴏʀᴇ ᴅᴇᴀᴛᴀɪʟꜱ'+'\n\n\n▣ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ ➢ '+`${kingbotsearch.description}`+'\n▣ ᴀᴜᴛʜᴏʀ ➢ '+`${kingbotsearch.author.name}`+'\n▣ ᴄʜᴀɴɴᴇʟ ➢ '+`${kingbotsearch.author.url}`}, type: 1}
                 ]
                 let buttonMessage = {
